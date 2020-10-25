@@ -1,2 +1,3 @@
-# game-socket-io
-Game developed with socket.io
+# Game-Socket-IO
+
+Game developed with socket.io.
